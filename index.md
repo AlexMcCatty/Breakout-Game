@@ -16,3 +16,6 @@ If I had another 8 weeks to work on this, well... I'm not really sure what I wou
 One thing I would do is clean up my code a bit, the time crunch doesn't lend itself to particulatly neat coding.  An improvemnt I would like to make to the game would be to automatically resize the blocks so that they fit the screen well when intializing a level.  As it is you have to be careful not to add too many columns or some of the blocks end up off the screen and the level is un-winable.  Or you can mess with the size options in the code.
 
 ## Media
+<img src="1.PNG">
+<img src="2.PNG">
+<img src="3.PNG">
