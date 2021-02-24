@@ -2,7 +2,7 @@
 
 ## Documentation
 
-Add doxygen html here
+Doxygen documentation is uploaded to this repo, but I'm not sure how to display it here.
 
 ## Game Binary
 
